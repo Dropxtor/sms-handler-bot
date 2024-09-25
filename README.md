@@ -34,6 +34,10 @@ Make sure you have the following installed:
    ```
 
 3. Create a `.env` file in the root directory and add your API keys:
+   
+   ```bash
+   nano .env
+   ```
 
    ```plaintext
    SMSHUB=your-smshub-api-key
