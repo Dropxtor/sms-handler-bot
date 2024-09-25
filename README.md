@@ -38,7 +38,7 @@ Make sure you have the following installed:
    ```bash
    nano .env
    ```
-
+  put 
    ```plaintext
    SMSHUB=your-smshub-api-key
    SMSACTIVATE=your-smsactivate-api-key
